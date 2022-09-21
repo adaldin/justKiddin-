@@ -1,0 +1,9 @@
+#nextJoke:hover{
+    box-shadow: -12px 14px 0px -7px rgba(145,53,53,0.8);
+    -webkit-box-shadow: -12px 14px 0px -7px rgba(145,53,53,0.8);
+    -moz-box-shadow: -12px 14px 0px -7px rgba(145,53,53,0.8);
+}
+
+#stats__container{
+    background-color: #3a10e5;
+}
