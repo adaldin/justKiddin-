@@ -25,7 +25,7 @@ Just Kiddin' is a joking app builded vanilla JS, designed to get jokes from [ica
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
   <img src="https://img.icons8.com/fluency/48/000000/javascript.png"alt="js logo"/>
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/external-xnimrodx-lineal-xnimrodx/64/000000/external-responsive-seo-and-marketing-xnimrodx-lineal-xnimrodx-2.png"/>
+  <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
     </div>  
     
  ## Roadmap 🗺️
